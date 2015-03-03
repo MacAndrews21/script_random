@@ -1,6 +1,7 @@
 # script_random
 Little script to get X winners out of N participants.
 
+Just type in the little scipt below in your python console, or rather start `main.py` in your python console. (At this time you get 5 winners in 30 participants) 
 ```
 import random
 ''' x = random.randint(start,end) ==> start <= x <= end '''
